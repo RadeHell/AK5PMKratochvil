@@ -22,6 +22,7 @@ komunikace s libovolným REST API                                               
 
 <li>SplashScreen <br />
 https://ionicframework.com/docs/native/splash-screen</li>
+<br />
 
   
 <li>Create of new page/service<br /><b>
