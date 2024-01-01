@@ -15,6 +15,12 @@ komunikace s libovolným REST API                                               
 
 
 <ul>
+
+  <li>Start project<br />
+    Ionic serve
+  </li>
+<br />
+  
 <li>Create of new page/service<br /><b>
   ionic generate page <Name or Path>
     <br />
