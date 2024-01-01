@@ -4,7 +4,6 @@ With using of Ionic framework http://ionicframework.com and with video help from
 Main objectives to complete:
 
 zdrojové kódy přístupné v nějakém verzovacím systému (GIT)                       <br />
-source code to be accesible via any GIT system (github.com)                      <br />
 vlastní ikona aplikace, vlastní splashscreen                                     <br />
 více propojených obrazovek, funkční navigační stack (přechody mezi obrazovkami)  <br />
 ukládání dat do perzistentní paměti zařízení                                     <br />
