@@ -1,0 +1,7 @@
+{
+  "name": "AK5PMKratochvil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
