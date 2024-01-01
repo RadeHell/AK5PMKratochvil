@@ -19,6 +19,11 @@ komunikace s libovolným REST API                                               
     Ionic serve
   </li>
 <br />
+
+<li>SplashScreen <br />
+https://ionicframework.com/docs/native/splash-screen</li>
+<br />
+
   
 <li>Create of new page/service<br /><b>
   ionic generate page <Name or Path>
