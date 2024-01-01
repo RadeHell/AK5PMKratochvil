@@ -12,11 +12,19 @@ vstup od uživatele (zadávání dat uživatelem)                               
 komunikace s libovolným REST API                                                 <br />
 
 
-<br />
-Create of new page - <b>ionic generate page <Name or Path>
-<br />
-Create of new service - <b> ionic generate service <Name or Path>
-<br />
 
-ionic storage - specific plugin? <br />
+
+<ul>
+<li>Create of new page/service<br /><b>
+  ionic generate page <Name or Path>
+    <br />
+ ionic generate service <Name or Path>
+  </li>
+   <br />
+<li>Ionic storage - installing of plugin
+<br />
 <b>npm install @inonic/storage-angular
+</li>
+</ul>
+
+
